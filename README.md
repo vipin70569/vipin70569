@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I love exploring new design trends and incorporating them into my projects
   <h2>🛠️ Technologies & Tools </h2>
   Languages: HTML, CSS, JavaScript, TypeScript <br>
-  Frameworks/Libraries: React, Vue.js, Angular<br>
+  Frameworks/Libraries: React, Vue.js, Next js, Bootstrap, Tailwind CSS <br>
   Tools: Git, Webpack, npm, Figma, Adobe XD<br>
   Design: Responsive Design, UI/UX Principles, Animation <br>
 
